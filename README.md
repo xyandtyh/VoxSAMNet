@@ -22,7 +22,7 @@ It aims to reconstruct a complete voxel-wise semantic scene from a single RGB im
 ### Method Overview
 
 <p align="center">
-  <img src="assets/method_overview.png" width="85%">
+  <img src="assets/overview.png" width="85%">
 </p>
 
 Our method introduces key modules to improve 3D semantic scene completion performance under monocular input settings.
