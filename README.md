@@ -10,7 +10,7 @@ Official repository for our CVPR paper on monocular 3D semantic scene completion
 
 - **[2026-03]** VoxSAMNet is accepted by CVPR 2026.
 - **[2026-03]** Repository initialized.
-- **[Coming Soon]** Training code, inference code, and pretrained checkpoints.
+- **[Coming Soon]** Training code and pretrained checkpoints.
 
 ---
 
