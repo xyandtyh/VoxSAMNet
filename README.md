@@ -32,7 +32,7 @@ Our method introduces key modules to improve 3D semantic scene completion perfor
 ## Qualitative Results
 
 <p align="center">
-  <img src="assets/qualitative_results.png" width="90%">
+  <img src="assets/qualitative_results.jpg" width="90%">
 </p>
 
 VoxSAMNet produces more complete and semantically consistent scene predictions compared with previous methods.
